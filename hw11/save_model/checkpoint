@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/kolga/kolga/term7-DL/hw11/save_model/model"
+all_model_checkpoint_paths: "/home/kolga/kolga/term7-DL/hw11/save_model/model"
